@@ -1,6 +1,6 @@
 {
   "name": "sort-lines",
-  "displayName": "Sort lines",
+  "displayName": "Sort Lines",
   "description": "Sorts lines of text",
   "version": "1.9.0",
   "license": "MIT",
@@ -46,51 +46,51 @@
     "commands": [
       {
         "command": "sortLines.sortLines",
-        "title": "Sort lines (ascending, case sensitive)"
+        "title": "Sort Lines (Ascending, Case Sensitive)"
       },
       {
         "command": "sortLines.sortLinesCaseInsensitive",
-        "title": "Sort lines (ascending, case insensitive)"
+        "title": "Sort Lines (Ascending, Case Insensitive)"
       },
       {
         "command": "sortLines.sortLinesCaseInsensitiveUnique",
-        "title": "Sort lines (unique ascending, case insensitive)"
+        "title": "Sort Lines (Unique Ascending, Case Insensitive)"
       },
       {
         "command": "sortLines.sortLinesReverse",
-        "title": "Sort lines (descending, case sensitive)"
+        "title": "Sort Lines (Descending, Case Sensitive)"
       },
       {
         "command": "sortLines.sortLinesLineLength",
-        "title": "Sort lines (line length ascending)"
+        "title": "Sort Lines (Line Length Ascending)"
       },
       {
         "command": "sortLines.sortLinesLineLengthReverse",
-        "title": "Sort lines (line length descending)"
+        "title": "Sort Lines (Line Length Descending)"
       },
       {
         "command": "sortLines.sortLinesVariableLength",
-        "title": "Sort lines (variable length ascending)"
+        "title": "Sort Lines (Variable Length Ascending)"
       },
       {
         "command": "sortLines.sortLinesVariableLengthReverse",
-        "title": "Sort lines (variable length descending)"
+        "title": "Sort Lines (Variable Length Descending)"
       },
       {
         "command": "sortLines.sortLinesNatural",
-        "title": "Sort lines (natural)"
+        "title": "Sort Lines (Natural)"
       },
       {
         "command": "sortLines.sortLinesUnique",
-        "title": "Sort lines (unique ascending, case sensitive)"
+        "title": "Sort Lines (Unique Ascending, Case Sensitive)"
       },
       {
         "command": "sortLines.removeDuplicateLines",
-        "title": "Sort lines (remove duplicate lines)"
+        "title": "Sort Lines (Remove Duplicate Lines)"
       },
       {
         "command": "sortLines.sortLinesShuffle",
-        "title": "Sort lines (shuffle)"
+        "title": "Sort Lines (Shuffle)"
       }
     ],
     "configuration": {
